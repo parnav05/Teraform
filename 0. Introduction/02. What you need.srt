@@ -1,0 +1,156 @@
+1
+00:00:00,04 --> 00:00:01,08
+- [Instructor] Before we get started,
+
+2
+00:00:01,08 --> 00:00:03,03
+let's cover what you'll need
+
+3
+00:00:03,03 --> 00:00:04,06
+and what you'll need to know
+
+4
+00:00:04,06 --> 00:00:07,06
+before starting this course.
+
+5
+00:00:07,06 --> 00:00:10,05
+To keep things focused on Terraform itself,
+
+6
+00:00:10,05 --> 00:00:12,05
+all of the exercises for this course
+
+7
+00:00:12,05 --> 00:00:14,04
+will take place in a web browser
+
+8
+00:00:14,04 --> 00:00:16,05
+using cloud-based services,
+
+9
+00:00:16,05 --> 00:00:20,00
+so there's no need for a powerful workstation.
+
+10
+00:00:20,00 --> 00:00:22,02
+Although we'll be using GitHub in this course
+
+11
+00:00:22,02 --> 00:00:24,08
+for editing and managing Terraform code,
+
+12
+00:00:24,08 --> 00:00:27,02
+we'll be sticking to the most basic features,
+
+13
+00:00:27,02 --> 00:00:30,08
+so you don't really need to know Git to follow along.
+
+14
+00:00:30,08 --> 00:00:34,01
+Terraform works on many different cloud platforms.
+
+15
+00:00:34,01 --> 00:00:35,09
+For the exercises in this course,
+
+16
+00:00:35,09 --> 00:00:38,04
+we'll just use Amazon AWS,
+
+17
+00:00:38,04 --> 00:00:40,05
+so you'll need an AWS account.
+
+18
+00:00:40,05 --> 00:00:45,00
+And we may incur some charges beyond the free tier.
+
+19
+00:00:45,00 --> 00:00:48,01
+It's unlikely that it will be more than a few dollars worth,
+
+20
+00:00:48,01 --> 00:00:51,08
+and that's only if you let things run for a long time.
+
+21
+00:00:51,08 --> 00:00:54,04
+You certainly don't need to be an AWS expert
+
+22
+00:00:54,04 --> 00:00:56,04
+to be successful in this course,
+
+23
+00:00:56,04 --> 00:00:58,07
+but ideally, you'll have some familiarity
+
+24
+00:00:58,07 --> 00:01:01,03
+with different types of AWS resources
+
+25
+00:01:01,03 --> 00:01:03,08
+and how to work with it.
+
+26
+00:01:03,08 --> 00:01:06,02
+If you're very experienced with another platform,
+
+27
+00:01:06,02 --> 00:01:08,00
+like Google Cloud or Azure,
+
+28
+00:01:08,00 --> 00:01:09,08
+you'll probably be fine, as well,
+
+29
+00:01:09,08 --> 00:01:12,02
+if you're willing to do a little mental translation
+
+30
+00:01:12,02 --> 00:01:15,01
+between different resources.
+
+31
+00:01:15,01 --> 00:01:17,07
+Since this course is about Terraform itself,
+
+32
+00:01:17,07 --> 00:01:19,04
+we're not actually going to be doing much
+
+33
+00:01:19,04 --> 00:01:22,06
+with the systems and infrastructure that we set up.
+
+34
+00:01:22,06 --> 00:01:24,09
+That means you don't really need to be an expert
+
+35
+00:01:24,09 --> 00:01:27,07
+in managing servers for this course.
+
+36
+00:01:27,07 --> 00:01:28,09
+You should know the basics
+
+37
+00:01:28,09 --> 00:01:31,02
+of how to work in Windows or Linux.
+
+38
+00:01:31,02 --> 00:01:34,01
+And we'll get into some basic networking concepts,
+
+39
+00:01:34,01 --> 00:01:37,00
+so you'll need familiarity there as well.
+

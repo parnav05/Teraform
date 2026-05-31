@@ -1,0 +1,68 @@
+1
+00:00:00,05 --> 00:00:03,03
+- [Josh] Terraform is a powerful tool for defining,
+
+2
+00:00:03,03 --> 00:00:06,06
+deploying, and managing cloud infrastructure.
+
+3
+00:00:06,06 --> 00:00:09,00
+In this course, we'll focus on hands-on work,
+
+4
+00:00:09,00 --> 00:00:12,00
+spinning up resources in Amazon AWS,
+
+5
+00:00:12,00 --> 00:00:14,09
+and iterating on our code as we go.
+
+6
+00:00:14,09 --> 00:00:16,02
+By the end, we'll have built
+
+7
+00:00:16,02 --> 00:00:18,05
+a fully-functional Terraform module
+
+8
+00:00:18,05 --> 00:00:21,04
+without glossing over any steps in the process,
+
+9
+00:00:21,04 --> 00:00:22,08
+and we'll use it to deploy
+
+10
+00:00:22,08 --> 00:00:26,01
+multiple infrastructure environments.
+
+11
+00:00:26,01 --> 00:00:27,09
+My name is Josh Samuelson.
+
+12
+00:00:27,09 --> 00:00:30,06
+I'm a lead software engineer at Dropbox.
+
+13
+00:00:30,06 --> 00:00:32,03
+Terraform is a big part of my work,
+
+14
+00:00:32,03 --> 00:00:34,01
+and it has transformed my approach
+
+15
+00:00:34,01 --> 00:00:36,00
+to working with the cloud.
+
+16
+00:00:36,00 --> 00:00:39,05
+I'm excited for you to experience that same transformation,
+
+17
+00:00:39,05 --> 00:00:41,00
+so let's get started.
+
